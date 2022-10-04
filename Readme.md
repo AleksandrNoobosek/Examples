@@ -25,3 +25,7 @@
 `if (c>max) max=c;`
 `if (d>max) max=d;`
 `if (e>max) max=e;`
+
+\\`Console.Clear();  `               //  очистка консоля
+\\`Console.SetCursorPosition(10,4,7);` ----set(установить)cursor(курсор)position(позиция) и задаем параметры от левого края(10,4)
+\\`Console.WriteLine("+");`   обозначить точку
