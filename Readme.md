@@ -29,3 +29,19 @@
 \\`Console.Clear();  `               //  очистка консоля
 \\`Console.SetCursorPosition(10,4,7);` ----set(установить)cursor(курсор)position(позиция) и задаем параметры от левого края(10,4)
 \\`Console.WriteLine("+");`   обозначить точку
+### Лекция2
+_Функция_
+
+```
+// f(x) = x2+1
+
+double f(double x); //<<<<<<<<<<<<<<<<<<<
+{					^
+	double result = x*x+1;		^
+	return result \\>>>>>>>>>>>>>>>>^
+	
+}
+// result переменная
+// return возврат переменной
+
+```
